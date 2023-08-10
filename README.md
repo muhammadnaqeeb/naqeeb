@@ -3,18 +3,18 @@
 
   <p align="center">
     It is a personal static website/portfolio hosted with GitHub Pages, built to showcase my recent projects.<br /> Site URL: 
-    <a href="https://hashirshoaeb.github.io/home">muhammadnaqeeb.github.io/portfolio</a>
+    <a href="https://muhammadnaqeeb.github.io/portfolio/">muhammadnaqeeb.github.io/portfolio</a>
    
   </p>
 </p>
 
 
 
-<center>
+<div align="center">
 <a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnaqeeb" height="30" width="40" /></a>
 <a href="https://instagram.com/techtowhisper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techtowhisper" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammadnaqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadnaqeeb" height="30" width="40" /></a>
-</center>
+</div>
 
 
 <br />
