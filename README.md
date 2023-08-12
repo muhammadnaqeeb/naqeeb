@@ -13,7 +13,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnaqeeb" height="30" width="40" /></a>
 <a href="https://instagram.com/techtowhisper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techtowhisper" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammadnaqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadnaqeeb" height="30" width="40" /></a>
+<a href="https://medium.com/@mnaqeeb512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mnaqeeb512" height="30" width="40" /></a>
 </div>
 
 
@@ -112,7 +112,7 @@ Open for Freelance Opportunities: Ready to collaborate on projects, bringing exp
 
 > ### 📞 Contact
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.
+Have a question or something to discuss? I'm here to listen. Whether it's a project, collaboration, or just a friendly chat, don't hesitate to get in touch. Looking forward to hearing from you!
 
 **Address**: Islamabad, Punjab, Pakistan
 
